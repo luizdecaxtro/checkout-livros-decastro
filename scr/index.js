@@ -980,4 +980,3 @@ function pagina(titulo, conteudo, largo = false) {
 </body>
 </html>`;
 }
-
