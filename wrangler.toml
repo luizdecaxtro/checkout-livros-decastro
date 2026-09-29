@@ -17,3 +17,5 @@ database_id = "51531c08-eb6e-4e04-9962-c70395d2f3dc"
 #   EMAILJS_TEMPLATE_ID
 #   EMAILJS_PUBLIC_KEY
 #   EMAILJS_PRIVATE_KEY
+   [observability]
+   enabled = true
